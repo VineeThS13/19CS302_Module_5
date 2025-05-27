@@ -2,7 +2,7 @@
 ## DATE:
 ## AIM:
 To write a C program to calculate the area of a triangle using pointer.
-
+ 
 ## Algorithm
 1. 
 2. 
